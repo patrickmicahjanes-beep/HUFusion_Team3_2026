@@ -7,4 +7,6 @@ Table of Contents
 
 
 Section 1: 
-Are NMR's used in nuclear fusion? cause we were talking about how B-dot probes are used but they require some extra integration steps. Also if there are other sources used for B-field testing? Focus on stuff used for 20T+ but other stuff can be footnote. No because 
+
+
+But what types of devices are used for fields exceeding 4T? The answer is B-dot probes, Rogowski coils and 
