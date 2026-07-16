@@ -5,7 +5,7 @@
 ![GitHub Forks](https://img.shields.io/github/forks/patrickmicahjanes-beep/HUFusion_Team3_2026?style=flat-square)
 ![License](https://img.shields.io/badge/License-Unspecified-lightgrey)
 
-This repository serves as the central hub for the hall probe team involved in Hampton University's STAR_Lite project. It aims to document, manage, and share resources related to magnetic field measurements and systems, particularly focusing on high-field environments (20T+) relevant to nuclear fusion research.
+This repository serves as the central hub for the hall probe team involved in Hampton University's STAR_Lite project. 
 
 ---
 
@@ -15,12 +15,9 @@ This repository serves as the central hub for the hall probe team involved in Ha
 2.  [Project Structure](#project-structure)
 3.  [Technical Details](#technical-details)
 4.  [Prerequisites & Dependencies](#prerequisites--dependencies)
-5.  [Installation & Setup Instructions](#installation--setup-instructions)
-6.  [Usage Guidelines](#usage-guidelines)
-7.  [Configuration Options](#configuration-options)
-8.  [Contributing Guidelines](#contributing-guidelines)
-9.  [License Information](#license-information)
-10. [Acknowledgments](#acknowledgments)
+5.  [Contributing and Installation Guidelines](#installation--setup-instructions)
+6.  [License Information](#license-information)
+7. [Acknowledgments](#acknowledgments)
 
 ---
 
@@ -28,98 +25,40 @@ This repository serves as the central hub for the hall probe team involved in Ha
 
 This repository is designed to be a living knowledge base for the HUFusion hall probe team, offering the following:
 
-*   **Centralized Documentation:** A single source for all information regarding magnetic field systems, probing devices, data acquisition, and software solutions.
-*   **Comprehensive Guide:** The `Complete Guide To Magnetic Field Systems.md` provides in-depth information, covering various aspects from probing technologies to data processing.
-*   **High-Field Focus:** Specific attention given to magnetic field testing and measurement techniques suitable for high-field environments (20 Tesla and above).
-*   **Collaboration Hub:** Facilitates collaboration among team members by providing a platform for sharing insights, updates, and best practices.
-*   **Future-Proofing:** Establishes a foundational knowledge base that can evolve with the project, incorporating new findings and technologies.
+*   **Centralized Documentation:** A single source for all information regarding magnetic field systems, probing devices, data acquisition, and software solutions..
+*   **Collaboration Hub:** Facilitates collaboration among permitted individuals by providing a platform for sharing insights, updates, and best practices.
 
 ---
 
 ## 📂 Project Structure
 
 The current structure of the repository is as follows:
-
-```
-├── Complete Guide To Magnetic Field Systems.md
-└── README.md
 ```
 
 ### Important Files:
 
-*   **`Complete Guide To Magnetic Field Systems.md`**: This is the primary documentation file for the project. It aims to answer fundamental questions regarding magnetic field systems, including:
-    *   Types of probing devices used.
-    *   Data acquisition and synchronization methodologies.
-    *   Relevant software tools.
-    *   Support systems and infrastructure.
-    The guide specifically targets technologies suitable for magnetic fields exceeding 20T, while also noting other relevant sources.
+*   **`Complete Guide To Magnetic Field Systems.md`**: This is an auxiliary document to understand STAR_Lite program in the context of the fusion industry as a whole. Other information such as accurate magnetic field measurement practices and the significance of LTS systems in field measurement studies are also outlined there.
 
 ---
 
 ## ⚙️ Technical Details
 
-This section will be populated as the project progresses and specific hardware, software, and methodologies are adopted.
-
-**Technologies**
-*   **Measurement Devices:** (To be defined, e.g., Hall probes, B-dot probes, NMR probes for high fields)
-*   **Data Acquisition:** (To be defined, e.g., DAQ cards, oscilloscopes, synchronized systems)
-*   **Software:** (To be defined, e.g., LabVIEW, Python with SciPy/NumPy, MATLAB, specific data analysis packages)
-*   **Hardware Control:** (To be defined, e.g., microcontrollers, PLC)
-
----
+An overview of the
 
 ## 🛠️ Prerequisites & Dependencies
 
 As this repository currently primarily hosts documentation, the main prerequisite is:
 
-*   **Markdown Viewer/Editor:** Any text editor or IDE with Markdown preview capabilities (e.g., VS Code, Typora, GitHub's web interface) to comfortably read and contribute to the documentation.
-
-For future development involving specific hardware and software, this section will be updated with:
-*   Specific operating systems (e.g., Linux, Windows)
-*   Programming languages (e.g., Python, C++)
-*   Libraries and frameworks (e.g., instrument drivers, data processing libraries)
-
+*   **Markdown Viewer/Editor:** Any text editor or IDE with Markdown preview capabilities (e.g., VS Code, Typora, GitHub's web interface) to comfortably read or contribute to the documentation.
 ---
 
-## 🚀 Installation & Setup Instructions
 
-To get a local copy of this repository, simply clone it to your machine:
 
-1.  **Open your terminal or command prompt.**
-2.  **Navigate to the directory** where you want to store the repository.
-3.  **Execute the following command:**
-    ```bash
-    git clone https://github.com/patrickmicahjanes-beep/HUFusion_Team3_2026.git
-    ```
-4.  **Change into the repository directory:**
-    ```bash
-    cd HUFusion_Team3_2026
-    ```
 
-You can now open the `.md` files in your preferred Markdown viewer or text editor.
+## 👋 Contributing and Installation Guidelines
 
----
 
-## 💡 Usage Guidelines
-
-This repository is primarily a documentation and resource hub. Here's how to effectively use it:
-
-1.  **Read the `Complete Guide To Magnetic Field Systems.md`:** Start by thoroughly reviewing this central document to understand the project's scope, current findings, and planned approaches to magnetic field measurements.
-2.  **Refer to Sections:** Use the Table of Contents within the guide to quickly navigate to specific topics like probing devices, data acquisition, or software.
-3.  **Contribute and Update:** Actively participate by proposing improvements, adding new information, or correcting existing details as the project evolves. (See [Contributing Guidelines](#contributing-guidelines)).
-4.  **Utilize as a Reference:** Leverage the information within for discussions, experimental planning, and problem-solving related to the STAR_Lite project.
-
----
-
-## ⚙️ Configuration Options
-
-Currently, there are no specific configuration options as this repository primarily hosts documentation. Future additions, such as code for data analysis or instrument control, will include detailed configuration instructions (e.g., environment variables, configuration files) in this section.
-
----
-
-## 👋 Contributing Guidelines
-
-We welcome contributions from all team members to enhance the completeness and accuracy of this knowledge base. To contribute:
+To contribute:
 
 1.  **Fork the Repository:** Click the 'Fork' button at the top right of this repository page on GitHub.
 2.  **Clone Your Fork:** Clone your forked repository to your local machine.
@@ -149,13 +88,24 @@ We welcome contributions from all team members to enhance the completeness and a
     *   Provide a clear title and description for your PR, explaining the changes you've made.
     *   Request a review from relevant team members.
 
----
+
+
+If you do not have permissions to contribute to this repository, simply clone it to your machine:
+
+1.  **Open your terminal or command prompt.**
+2.  **Navigate to the directory** where you want to store the repository.
+3.  **Execute the following command:**
+    ```bash
+    git clone https://github.com/patrickmicahjanes-beep/HUFusion_Team3_2026.git
+    ```
+4.  **Change into the repository directory:**
+    ```bash
+    cd HUFusion_Team3_2026
+    ```
 
 ## ⚖️ License Information
 
 This project currently has **no specified license**. This means that by default, all rights are reserved by the copyright holder(s) (i.e., patrickmicahjanes-beep and Hampton University).
-
-It is strongly recommended to add a clear open-source license (e.g., MIT, Apache 2.0) to define how others can use, modify, and distribute the contents of this repository.
 
 ---
 
@@ -165,4 +115,4 @@ We extend our gratitude to:
 
 *   **Hampton University:** For initiating and supporting the STAR_Lite project.
 *   **The STAR_Lite Project Team:** For their collaborative efforts and dedication.
-*   **patrickmicahjanes-beep:** For initiating this repository and facilitating the team's work.
+*   **patrickmicahjanes-beep:** For initiating this repository
