@@ -55,7 +55,7 @@ However, old versions, particularly v2.0, reveal some of the more technical deta
 
 DAQ Boards: 
 Pdf's for the DAQ boards used in this project can be found at the following links:  
-Due to confidentiality concerns mentioned in the document, preliminary product information from OCTO-BEE-CELF_Design-1.pdf will not be shared on this repository. However, the pdf is accessible on the 3DHall user of Dr. C. Lowe's computer and to anyone who has been permitted to view it.
+Due to confidentiality concerns mentioned in the document, preliminary product information from OCTO-BEE-CELF_Design-1.pdf will not be shared on this repository. However, the pdf is accessible on the 3DHall user of Dr. C. Lowe's computer to anyone who has been permitted to view it.
 
 LTS System: 
 https://www.manualslib.com/products/Thorlabs-Lts300-12183865.html
