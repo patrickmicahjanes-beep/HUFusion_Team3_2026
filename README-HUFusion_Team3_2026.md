@@ -17,6 +17,10 @@ This repository serves as the central hub for the hall probe team involved in Ha
 4.  [Contributing and Installation Guidelines](#installation--setup-instructions)
 5.  [License Information](#license-information)
 6. [Acknowledgments](#acknowledgments)
+3.  [Prerequisites & Dependencies](#prerequisites--dependencies)
+4.  [Contributing and Installation Guidelines](#installation--setup-instructions)
+5.  [License Information](#license-information)
+6. [Acknowledgments](#acknowledgments)
 
 ---
 
@@ -67,6 +71,9 @@ https://www.manualslib.com/products/Thorlabs-Lts300-12183865.html
 For users with access to the associated hardware, the following are needed: 
 * Access to Gitbash or any Git client (to run HAPI) and access to Phoebus via the ACQ400CSSP file. Both of these have historically been available on Dr. C. Lowe's computer on the user 3DHall.
 
+For users with access to the associated hardware, the following are needed: 
+* Access to Gitbash or any Git client (to run HAPI) and access to Phoebus via the ACQ400CSSP file. Both of these have historically been available on Dr. C. Lowe's computer on the user 3DHall.
+
 
 
 
@@ -105,6 +112,7 @@ To contribute:
 
 
 
+If you do not have permissions to contribute to this repository and want to be able to edit it, simply clone it to your machine:
 If you do not have permissions to contribute to this repository and want to be able to edit it, simply clone it to your machine:
 
 1.  **Open your terminal or command prompt.**

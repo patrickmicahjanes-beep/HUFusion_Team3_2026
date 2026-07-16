@@ -10,3 +10,4 @@ Section 1:
 
 
 But what types of devices are used for fields exceeding 4T? The answer is B-dot probes, Rogowski coils and 
+
