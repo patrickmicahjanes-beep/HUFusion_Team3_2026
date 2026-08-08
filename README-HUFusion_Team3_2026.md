@@ -37,16 +37,17 @@ This repository is designed to be a living knowledge base for the HUFusion hall 
 
 
 ###The repository is organized as follows:
+**`orchestrate_scan.py`**: 
 **`Complete Guide To Magnetic Field Systems.md`**: This is an auxiliary document to understand the STAR_Lite magnetic field measurement strategy in the context of that of the fusion industry as a whole. Other information such as accurate magnetic field measurement practices and the significance of LTS systems in field measurement studies are also outlined there.
 
 
 ###Auxilliary files and resources:
-Most of the code required for the project is organized in this repository. Any pdf's or other files that are not code are linked to below.
+Most of the code required for the project is organized in this repository. However, not all documents were stored here to allow for better organization and to avoid adding repository latency. Particularly, some pdf's are not intended to be included in the repository.
 
 An overview of the hardware needed for this project is provided in the slideshow linked below
 https://docs.google.com/presentation/d/1VGAAb63L0qQeKwDfRUkr5AzK5K9MUun-I3ZwrXb01p8/edit?slide=id.p#slide=id.p
 
-The following is a link to the Overleaf document that contains the more technical details of the project updated to the most recent edits. PDF versions of the document can be downloaded from the Overleaf link as well.
+The following is a link to the Overleaf document that contains the more technical details of the project updated to the most recent edits. The latex code can be copied and PDF versions of the document can be downloaded from the Overleaf link as well.
 https://www.overleaf.com/read/fbgqqshqdvhg#07850f
 
 
