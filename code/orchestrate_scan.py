@@ -1,3 +1,4 @@
+#File intro: this file is meant as the first draft of a combined LTS motion and hall probe aquisition code.  
 import subprocess
 import time
 import sys
