@@ -37,8 +37,11 @@ This repository is designed to be a living knowledge base for the HUFusion hall 
 
 
 ###The repository is organized as follows:
-**`orchestrate_scan.py`**: 
-**`Complete Guide To Magnetic Field Systems.md`**: This is an auxiliary document to understand the STAR_Lite magnetic field measurement strategy in the context of that of the fusion industry as a whole. Other information such as accurate magnetic field measurement practices and the significance of LTS systems in field measurement studies are also outlined there.
+*`Code`*: 
+**`orchestrate_scan.py`**: This file is meant as the first draft of a combined LTS motion and hall probe acquisition code. 
+*`Pdfs`: This section will be devoted 
+*`Auxiliary-Materials`*: This section contains materials related to the project but mainly just for educational supplementation which is provided as it's own folder in order to separate it from the main project materials.
+**`Complete Guide To Magnetic Field Systems.md`**: This is an auxiliary document to understand the STAR_Lite magnetic field measurement strategy in the context of that of the fusion industry as a whole. Other information such as accurate magnetic field measurement practices and the significance of LTS systems in field measurement studies for early fusion project planning will be also outlined there. Links to relevant papers are intended to be provided.
 
 
 ###Auxilliary files and resources:
